@@ -15,6 +15,9 @@ You should prepare a 10 minute presentation that includes the following:
 •	Recommendations and/or next steps resulting from the outcome
 All 3 team members must be involved in the presentation and throughout the project.  The case studies will be evaluated by faculty and staff from the OBAIS Department and the winning team will be selected to participate as the representative of the University of Cincinnati in the Hanes Analytics Case Competition (HACC) at the University of Tennessee in April.  The 2nd place team will stand as a runner up in case the winner is unable to attend the competition.
 
+# Code-for-price-prediction-model
+Analysed the yellow taxi cab business' opportunity areas to compete with Uber and Lyft. Built a price prediction model to be available to the user 
+
 ## References
 https://www.marketwatch.com/story/this-chart-shows-how-uber-rides-sped-past-nyc-yellow-cabs-in-just-six-years-2019-08-09
 https://www.wired.com/story/new-york-city-flexes-extending-cap-uber-lyft/
