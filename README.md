@@ -1,11 +1,5 @@
-# Hanes-Case-Study
+# Hanes-Case-Study Competition
 
-# Code-for-price-prediction-model
-
-Analysed the yellow taxi cab business' opportunity areas to compete with Uber and Lyft. Built a price prediction model to be available to the user 
-
-
-# Case Study Competition
 ## Background
 The concept of ridesharing has disrupted the transportation industry over the past decade.  Companies like Uber and Lyft have captured a large part of the taxicab business and significantly changed the way that people view transportation.  Instead of hailing a taxi at the airport, passengers will order a ride with Uber or Lyft from their phone with the benefit of knowing who will pick them up, when and where they will be picked up and how much the ride will cost.  This differs from hailing a taxi because the cost is not known until you arrive at your destination and you do not have as much information about the person providing the transport.  On the other hand, taxicabs are better regulated than ridesharing and often have oversight and accountability that can be found lacking in the rideshare industry.
 New York City taxicabs have been significantly affected by ridesharing (Marketwatch).  However, NYC has recently initiated some congestion charges and limits on the number of rideshare vehicles that are permitted in the city to help alleviate congestion (Wired).  These have not been viewed favorably by the rideshare companies but the taxicabs are hopeful that they may see a rebound in their volume.
